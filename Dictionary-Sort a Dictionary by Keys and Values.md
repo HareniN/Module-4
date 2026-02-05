@@ -42,7 +42,8 @@ for i in l:
 ```
 ## Sample Output
 
-![Uploading image.png…]()
+<img width="1010" height="160" alt="Screenshot 2026-02-05 141609" src="https://github.com/user-attachments/assets/a623c24b-dda3-4809-80bd-2b0c73667c8d" />
+
 
 
 ## Result
